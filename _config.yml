@@ -29,9 +29,9 @@ baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://docs.sheepstudios.net" # the base hostname & protocol for your site
 
 # Social (First three Required)
-repo: "https://github.com/vsoch/mkdocs-jekyll"
-github_user: "vsoch"
-github_repo: "mkdocs-jekyll"
+repo: "https://github.com/SHeep-Studios/sheep-studios-docs"
+github_user: "sheep-studios"
+github_repo: "sheep-studios-docs"
 
 # Optional
 twitter: vsoch
