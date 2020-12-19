@@ -6,11 +6,11 @@ permalink: /
 
 # Welcome to Sheep Studios Docs
 
-This is the documentation for all Sheep Studios assets & open-sourced software.
+This is the documentation for all of Sheep Studios' assets & open-sourced Gamemaker Studio 2 extensions.
 
 ## Purpose
 
-Our purpose is to help out new and experinced developers alike with free and open-sourced software to help streamline development.
+Our purpose is to help out new and experinced developers alike with free and open-sourced Gamemaker Studio 2 add-ons & extensions to help streamline development.
 
 ## Our Assets
 We are happy to host a variety of free and open-sourced assets, which include:
