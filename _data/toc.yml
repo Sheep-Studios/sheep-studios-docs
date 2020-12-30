@@ -1,17 +1,7 @@
 - title: "Free Extensions"
   url: "docs/getting-started"
   children:
-    - title: AdMob Ads For Gamemaker Studio 2
+    - title: Download on Marketplace
+      url: "https://marketplace.yoyogames.com/assets/9589/admob-ads-free"
+    - title: Documentation
       url: "/admob-gms2"
-      children:
-        - title: Download
-          url: "https://marketplace.yoyogames.com/assets/9589/admob-ads-free"
-        - title: Documentation
-          url: "/admob-gms2"
-    - title: Unity Ads For Gamemaker Studio 2
-      url: "/unity-ads-gms2"
-      children:
-        - title: Download
-          url: "https://marketplace.yoyogames.com/assets/9589/admob-ads-free"
-        - title: Documentation
-          url: "/unity-ads-gms2"
