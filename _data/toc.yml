@@ -1,22 +1,17 @@
-- title: "Getting Started"
+- title: "Free Extensions"
   url: "docs/getting-started"
   children:
-    - title: Features
-      url: "docs/getting-started#getting-started"
-    - title: Development
-      url: "docs/getting-started#development"
-    - title: Customization
-      url: "docs/getting-started#customization"
-- title: "Extras"
-  url: "docs/extras"
-  children:
-    - title: Quizzes
-      url: "docs/extras/example-quiz"
-    - title: Discussion Forum
-      url: "forum"
-    - title: Interactive Code
-      url: "docs/extras/interactive"
-- title: "About"
-  url: "about"
-- title: "News"
-  url: "news"
+    - title: AdMob Ads For Gamemaker Studio 2
+      url: "/admob-gms2"
+      children:
+        - title: Download
+          url: "https://marketplace.yoyogames.com/assets/9589/admob-ads-free"
+        - title: Documentation
+          url: "/admob-gms2"
+    - title: Unity Ads For Gamemaker Studio 2
+      url: "/unity-ads-gms2"
+      children:
+        - title: Download
+          url: "https://marketplace.yoyogames.com/assets/9589/admob-ads-free"
+        - title: Documentation
+          url: "/unity-ads-gms2"
