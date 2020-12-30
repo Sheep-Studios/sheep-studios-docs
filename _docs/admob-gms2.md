@@ -14,7 +14,7 @@ Before implementing ads, you need to know what each type of ad does, it's pro's,
 
 ### Banner Ads
 
-Ah, yes, the humble banner ad. These advertisements are by far the most common; but because they are the most common, they are also the least fruitful. For every 1,000 banner ad impressions, you'll only earn an average of thirty cents, rewarded ads, on the other hand, rake in an average of $23 USD / 1,000 impressions.
+Ah, yes, the humble banner ad. These advertisements are by far the most common; but because they are the most common, they are also the least fruitful. For every 1,000 banner ad impressions, you'll only earn an average of thirty cents, rewarded ads, on the other hand, rake in an average of $23 USD / 1,000 impressions. The biggest plus about banner ads is that they can fit into basically any game-- landscape banners, portrait banenrs, you name it-- they have a format for it. 
 
 ### Rewarded Ads
 
