@@ -23,6 +23,6 @@ Rewarded ads a type of advertisement which the user voluntarily watches in order
 
 ### Interstitial Ads
 
-Interstitial ads are a bit of a mix of rewarded & banner ads. Interstial ads are commonly used in-between levels, however, after a given amount of time (typically 5 seconds or so), the user can skip the ad, and continue using the game/app. Intertitials typically get about $7.50 per 1,000 impressions.
+Interstitial ads are a bit of a mix of rewarded & banner ads. Interstial ads are commonly used in-between levels, however, after a given amount of time (typically 5 seconds or so), the user can skip the ad, and continue using the game/app. Interstitials typically get about $7.50 per 1,000 impressions.
 
 ## Importing to your project
