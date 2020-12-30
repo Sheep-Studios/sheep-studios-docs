@@ -1,7 +1,7 @@
 ---
+layout: page
 title: AdMob Ads For Gamemaker Studio 2 (FOSS)
 permalink: /admob-gms2
-url: /admob-gms2
 ---
 
 ## Introduction
@@ -26,3 +26,5 @@ Rewarded ads a type of advertisement which the user voluntarily watches in order
 Interstitial ads are a bit of a mix of rewarded & banner ads. Interstial ads are commonly used in-between levels, however, after a given amount of time (typically 5 seconds or so), the user can skip the ad, and continue using the game/app. Interstitials typically get about $7.50 per 1,000 impressions.
 
 ## Importing to your project
+
+To import the Gamemaker asset into your project, you must first add the asset to your account. [Go to the Marketplace page](https://marketplace.yoyogames.com/assets/9589/admob-ads-free), and click "Add to account." (you need to be logged in to your Gamemaker account.)
