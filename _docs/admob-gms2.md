@@ -10,7 +10,7 @@ In this guide, you will learn how to set up AdMob Ads for Gamemaker Studio 2 to 
 
 ## Ad Formats
 
-Before implementing advertisements into your project, it's probably best that you know what each type of ad format does, it's pros, along with it's cons. Learn more about each avaliable format below:
+Before implementing advertisements into your project, it's probably best that you know what each type of ad format does, it's pros, along with it's cons. Learn more about each available format below:
 
 
 ### Banner Ads
