@@ -1,6 +1,7 @@
 ---
 title: AdMob Ads For Gamemaker Studio 2 (FOSS)
 permalink: /admob-gms2
+url: /admob-gms2
 ---
 
 ## Introduction
