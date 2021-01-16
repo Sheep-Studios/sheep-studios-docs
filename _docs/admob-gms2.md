@@ -29,4 +29,4 @@ Interstitial ads are a bit of a mix of rewarded & banner ads. Interstitial ads a
 
 To import the Gamemaker asset into your project, you must first add the asset to your account. [Go to the Marketplace page](https://marketplace.yoyogames.com/assets/9589/admob-ads-free), and click "Add to account." (you need to be logged in to your Gamemaker account.) Once you've added the asset to your account, go to your Gamemaker IDE, and select Marketplace > My Library. In the searchbar located in the top-left, type "AdMob Ads Free", and in the search results, the asset your recently added to your account should show up. If not, restart your IDE and try again. Once you see the asset in your search results, import the extension to your project by clicking the little "import" icon (see the below image.)
 
-[admob-gms2/import.png](Importing asset to GMS2)
+(admob-gms2/import.png)[Importing asset to GMS2]
